@@ -1,0 +1,45 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+theme = "anatole"
+
+[params]
+title = "ATLab"
+author = "Nguyen Anh Tuan"
+description = "ATLab's personal blog. Have a nice day."
+profilePicture = "images/profile.jpg"
+mainSections = []
+
+[[params.socialIcons]]
+icon = "fa-brands fa-youtube"
+title = "Youtube"
+url = "https://youtube.com/@atuanlab"
+
+[[params.socialIcons]]
+icon = "fa-brands fa-facebook"
+title = "Facebook"
+url = "https://facebook.com/atuanlab"
+
+[[params.socialIcons]]
+icon = "fa-brands fa-github"
+title = "Github"
+url = "https://github.com/ngatuanlab"
+
+[menu]
+	[[menu.main]]
+	name = "Home"
+	identifier = "home"
+	weight = 100
+	url = "/"
+	
+	[[menu.main]]
+	name = "About"
+	identifier = "about"
+	weight = 300
+	url = "/about/"
+	
+	[[menu.main]]
+	name = "Post"
+	identifier = "post"
+	weight = 300
+	url = "/post/"
+

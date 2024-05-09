@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Benefit of Virtualization</title>
+      <link>http://example.org/post/loi-ich/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/loi-ich/</guid>
+      
+        <description>virtualization</description>
+      
+    </item>
+    
+    <item>
+      <title>what is virtualization ?</title>
+      <link>http://example.org/post/ao-hoa/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/ao-hoa/</guid>
+      
+        <description>virtualization</description>
+      
+    </item>
+    
+  </channel>
+</rss>
